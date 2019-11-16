@@ -1,4 +1,4 @@
-## About Me 
+## About Me Scott Manley 
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+* I am a creative designer with a graphic design / fine art background. 
+* I want to learn coding to make a change to my career and go into a different field or work.
